@@ -9,16 +9,16 @@
     "nodemon": "^3.1.10",
     "validator": "^13.15.23"
   },
-  "name": "backend",
+  "name": "Auth_System",
   "version": "1.0.0",
-  "type": "module",
   "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon app.js"
+    "dev": "node app.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
